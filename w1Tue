@@ -1,3 +1,0 @@
-# Learning Journal Week 1: Tuesday
-1. Today was all about the Jquery library. Jquery allows for easy traversal, selection, and manipulation of the DOM and is way simpler and more dev friendly than trying to go about it in vanilla JS
-2. With this library come so many methods that can be utilized for DOM manipulation. one big one is the .find() method which allows us to find something within the DOM based on the parameters you input.
